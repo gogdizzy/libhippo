@@ -1,0 +1,6 @@
+add_subdirectory( util )
+add_subdirectory( base )
+add_subdirectory( codec )
+add_subdirectory( dbclient )
+add_subdirectory( concurrent )
+add_subdirectory( net )
